@@ -8,7 +8,7 @@ COMO PUBLICAR COM PESQUISAS FUNCIONANDO:
 5. Faça o deploy. Abra o endereço .netlify.app gerado e clique em 'Pesquisar agora'.
 6. Após adicionar a variável, execute novo deploy se for necessário.
 
-IMPORTANTE: Upload por arrastar/soltar pode exibir a interface, mas não é uma forma confiável de publicar a função de busca. Para pesquisas online, faça implantação via Git ou Netlify CLI.
+IMPORTANTE: O projeto publicado apenas com arquivos soltos pode exibir a interface sem a função de busca. Para pesquisas online, faça implantação via Git ou Netlify CLI.
 
 A API Brave pode ter custos e exige cadastro; verifique os preços e limites atuais diretamente no fornecedor.
 Nenhuma pesquisa pública comprova volume efetivo de vendas. Para vendas confirmadas, importe registros reais na aba 'Vendas confirmadas'. Dados importados ficam no navegador local e não são sincronizados entre Mac e iPhone.
